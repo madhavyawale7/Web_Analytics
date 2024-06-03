@@ -2,17 +2,37 @@
 
 ![CB](https://github.com/madhavyawale7/Web_Analytics/assets/159420665/1107fd73-44d3-48b3-b907-ec9fa623e0ee)
 
-In this project, I solved various analysis questions and this question is in excel file and i used MySQL Workbench for writing SQL queries. I captured screenshots of these queries in MySQL Workbench and pasted the outputs alongside them in an Excel file.
+## Table of Contents
 
-SKILLS USED :
+- [Introduction](#Introduction)
+- [DASHBOARDS IMAGE](#DASHBOARDS)
+- [Insight](#Insight)
+- [EDA File](https://github.com/madhavyawale7/University-Analysis/blob/main/EDA%20Of%20University%20Success%20Analysis.xlsx)
+- [Power BI File](https://github.com/madhavyawale7/University-Analysis/blob/main/Power%20BI%20Of%20University%20Success%20Analysis%20Project.pbix)
+- [MECE Breakdown](https://github.com/madhavyawale7/University-Analysis/blob/main/MECE%20Of%20University%20Success%20Analysis.docx)
+- [Word Document](https://github.com/madhavyawale7/University-Analysis/blob/main/Word%20Document%20Of%20University%20Success%20Analysis.docx)
 
-- Joins (LEFT JOIN, INNER JOIN, etc.)
-- Aggregation Functions (SUM, COUNT, AVG, MAX)
-- Date Functions ( Date_format )
-- Window Functions (Row Number)
-- Conditional Logic (CASE WHEN)
-- Set Operations (UNION, UNION ALL)
-- Common Table Expressions (CTE)
+# Introduction:
+
+This digital case study for the Clique Bait food app offers businesses in-depth insights into user behavior, campaign performance, and product success. By meticulously analyzing event, user, campaign, page, and product data, our study delivers actionable recommendations to refine strategies and drive growth in the competitive digital marketplace.
+
+# SKILLS USED:
+
+| Feature                            | Description                                                                      |
+|------------------------------------|----------------------------------------------------------------------------------|
+| Data Aggregation                   | Using functions such as COUNT, SUM, AVG, MIN, MAX, and GROUP BY to consolidate data. |
+| Data Ordering                      | Sorting data with HAVING and ORDER BY clauses.                                   |
+| Data Manipulation                  | Applying JOIN (Left, Inner), UNION, and DISTINCT to manipulate data sets. |
+| Window Functions                   | Leveraging window functions like ROW_NUMBER, and RANK for sequential data analysis. |
+| Subqueries                         | Isolating specific data subsets for detailed analysis using subqueries.          |
+| Logical Functions                  | Utilizing CASE WHEN for data categorization and conditional processing.          |
+| Date and Time Functions            | Applying functions like TIMESTAMPDIFF, and DATEDIFF for examining temporal data. |
+| Common Table Expressions (CTEs)    | Using CTEs to create temporary result sets for complex queries.                  |
+| Data Formatting and Transformation | Employing functions such as CONCAT, SUBSTRING, and REPLACE for data formatting and transformation. |
+| Dimensional Aggregation            | Aggregating data across various dimensions with functions like GROUP_CONCAT.     |
+| Alias Usage                        | Using aliases to enhance query readability and comprehension.              |
+
+
 
 
 PROJECT SUMMARY :

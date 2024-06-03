@@ -6,6 +6,19 @@
 
 This digital case study for the Clique Bait food app offers businesses in-depth insights into user behavior, campaign performance, and product success. By meticulously analyzing event, user, campaign, page, and product data, our study delivers actionable recommendations to refine strategies and drive growth in the competitive digital marketplace.
 
+# SUMMARY:
+
++ [User Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/User%20Analysis): Employed SQL functions to explore user engagement, calculating metrics like engagement counts and averages. Techniques included concatenating event sequences, connecting tables, categorizing events with logical functions, and formatting dates for time analysis. Window functions and subqueries were used to identify trends and behaviors at various stages of the user journey, facilitating data-driven decisions.
+
++ [Product Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Product%20Analysis): Leveraged SQL functions to assess user interactions, product performance, and purchasing trends. Techniques such as aggregation, joining, and ranking identified top-performing and less-viewed products. Insights into conversion funnels and viewing patterns informed product presentation and marketing strategies.
+
++ [Event Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Event%20Analysis): Applied SQL techniques to dissect user engagement dynamics, identifying event sequences and behavior patterns. Aggregation, grouping, and logical operations were utilized to uncover event distributions and trends. Subqueries and temporal analysis provided insights into the timing and sequence of interactions, enhancing strategy optimization.
+
++ [Campaign Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Campaign%20Analysis): Employed SQL queries to evaluate marketing campaign effectiveness, analyzing engagement metrics, conversion rates, and product distribution. The analysis provided actionable insights into campaign performance and user behavior, enabling data-driven marketing strategy optimization and business growth.
+
++ [Page Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Page%20Analysis): Utilized SQL queries to gain insights into user engagement, event sequences, and conversion rates on website pages. By counting, grouping, and averaging data, engagement patterns, entry points, and bounce rates were revealed. This analysis informs content optimization and enhances the user experience.
+
+
 # SKILLS USED:
 
 | Feature                            | Description                                                                      |
@@ -21,21 +34,6 @@ This digital case study for the Clique Bait food app offers businesses in-depth 
 | Data Formatting and Transformation | Employing functions such as CONCAT, SUBSTRING, and REPLACE for data formatting and transformation. |
 | Dimensional Aggregation            | Aggregating data across various dimensions with functions like GROUP_CONCAT.     |
 | Alias Usage                        | Using aliases to enhance query readability and comprehension.              |
-
-
-
-
-# SUMMARY:
-
-+ [User Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/User%20Analysis): Employed SQL functions to explore user engagement, calculating metrics like engagement counts and averages. Techniques included concatenating event sequences, connecting tables, categorizing events with logical functions, and formatting dates for time analysis. Window functions and subqueries were used to identify trends and behaviors at various stages of the user journey, facilitating data-driven decisions.
-
-+ [Product Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Product%20Analysis): Leveraged SQL functions to assess user interactions, product performance, and purchasing trends. Techniques such as aggregation, joining, and ranking identified top-performing and less-viewed products. Insights into conversion funnels and viewing patterns informed product presentation and marketing strategies.
-
-+ [Event Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Event%20Analysis): Applied SQL techniques to dissect user engagement dynamics, identifying event sequences and behavior patterns. Aggregation, grouping, and logical operations were utilized to uncover event distributions and trends. Subqueries and temporal analysis provided insights into the timing and sequence of interactions, enhancing strategy optimization.
-
-+ [Campaign Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Campaign%20Analysis): Employed SQL queries to evaluate marketing campaign effectiveness, analyzing engagement metrics, conversion rates, and product distribution. The analysis provided actionable insights into campaign performance and user behavior, enabling data-driven marketing strategy optimization and business growth.
-
-+ [Page Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Page%20Analysis): Utilized SQL queries to gain insights into user engagement, event sequences, and conversion rates on website pages. By counting, grouping, and averaging data, engagement patterns, entry points, and bounce rates were revealed. This analysis informs content optimization and enhances the user experience.
 
   # Insight:
 

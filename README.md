@@ -38,7 +38,7 @@ This digital case study for the Clique Bait food app offers businesses in-depth 
 
 + [Product Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Product%20Analysis): Leveraged SQL functions to assess user interactions, product performance, and purchasing trends. Techniques such as aggregation, joining, and ranking identified top-performing and less-viewed products. Insights into conversion funnels and viewing patterns informed product presentation and marketing strategies.
 
-+ [Event Analysis]: Applied SQL techniques to dissect user engagement dynamics, identifying event sequences and behavior patterns. Aggregation, grouping, and logical operations were utilized to uncover event distributions and trends. Subqueries and temporal analysis provided insights into the timing and sequence of interactions, enhancing strategy optimization.
++ [Event Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/Event%20Analysis): Applied SQL techniques to dissect user engagement dynamics, identifying event sequences and behavior patterns. Aggregation, grouping, and logical operations were utilized to uncover event distributions and trends. Subqueries and temporal analysis provided insights into the timing and sequence of interactions, enhancing strategy optimization.
 
 + [Campaign Analysis]: Employed SQL queries to evaluate marketing campaign effectiveness, analyzing engagement metrics, conversion rates, and product distribution. The analysis provided actionable insights into campaign performance and user behavior, enabling data-driven marketing strategy optimization and business growth.
 

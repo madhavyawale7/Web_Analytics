@@ -2,13 +2,6 @@
 
 ![CB](https://github.com/madhavyawale7/Web_Analytics/assets/159420665/1107fd73-44d3-48b3-b907-ec9fa623e0ee)
 
-## Table of Contents
-
-- [Introduction](#Introduction)
-- [SKILLS](#SKILLS-USED)
-- [Project Summary](#SUMMARY)
-- [Insight](#Insight)
-
 # Introduction:
 
 This digital case study for the Clique Bait food app offers businesses in-depth insights into user behavior, campaign performance, and product success. By meticulously analyzing event, user, campaign, page, and product data, our study delivers actionable recommendations to refine strategies and drive growth in the competitive digital marketplace.

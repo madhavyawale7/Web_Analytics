@@ -34,7 +34,7 @@ This digital case study for the Clique Bait food app offers businesses in-depth 
 
 # SUMMARY:
 
-+ [User Analysis]: Employed SQL functions to explore user engagement, calculating metrics like engagement counts and averages. Techniques included concatenating event sequences, connecting tables, categorizing events with logical functions, and formatting dates for time analysis. Window functions and subqueries were used to identify trends and behaviors at various stages of the user journey, facilitating data-driven decisions.
++ [User Analysis](https://github.com/madhavyawale7/Web_Analytics/tree/main/User%20Analysis): Employed SQL functions to explore user engagement, calculating metrics like engagement counts and averages. Techniques included concatenating event sequences, connecting tables, categorizing events with logical functions, and formatting dates for time analysis. Window functions and subqueries were used to identify trends and behaviors at various stages of the user journey, facilitating data-driven decisions.
 
 + [Product Analysis]: Leveraged SQL functions to assess user interactions, product performance, and purchasing trends. Techniques such as aggregation, joining, and ranking identified top-performing and less-viewed products. Insights into conversion funnels and viewing patterns informed product presentation and marketing strategies.
 

@@ -1,4 +1,7 @@
 # Web_Analytics
+
+![CB](https://github.com/madhavyawale7/Web_Analytics/assets/159420665/1107fd73-44d3-48b3-b907-ec9fa623e0ee)
+
 In this project, I solved various analysis questions and this question is in excel file and i used MySQL Workbench for writing SQL queries. I captured screenshots of these queries in MySQL Workbench and pasted the outputs alongside them in an Excel file.
 
 SKILLS USED :
